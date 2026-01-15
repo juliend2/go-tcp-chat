@@ -1,4 +1,4 @@
-all:
+server:
 	go run main.go
 
 client:
